@@ -1,0 +1,7 @@
+opencv-python-headless==4.13.0.92
+PyQt6==6.11.0
+PyQt6-Qt6==6.11.1
+numpy==2.2.6
+pillow==12.2.0
+pyinstaller==6.21.0
+pytest>=8.0
