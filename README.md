@@ -27,7 +27,7 @@
 
 ### 方式一：下载单 exe（推荐）
 
-从 [Releases](https://github.com/ultrabaizishen-bot/video-frame-extractor/releases) 下载 `视频抽帧工具.exe`，双击即可运行，无需任何安装。
+从 [Releases](https://github.com/ultrabaizishen-bot/video-frame-extractor/releases) 下载 `FrameExtractor_v1.0.0.exe`，双击即可运行，无需任何安装。
 
 搜索 `dist` 目录下的可执行文件亦可直接使用。
 
